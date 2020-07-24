@@ -1,2 +1,2 @@
 # Movie-Recommender
-Recommedning Movies using several approaches
+Recommending Movies using several approaches
